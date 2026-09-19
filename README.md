@@ -3,10 +3,6 @@
 Aplicación móvil desarrollada con **React Native + Expo** que consume la API REST de **JSONPlaceholder** mediante **Axios**, con dos pantallas (lista y detalle).
 
 **Autora:** Shunayka G. Baquero  
-**Materia:** Aplicaciones Móviles II  
-**Docente:** Ing. Luis Calo  
-**Institución:** Instituto Superior Universitario Japón  
-**Fecha:** 19/09/2026
 
 ---
 
